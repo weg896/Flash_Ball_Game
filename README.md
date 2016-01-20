@@ -1,4 +1,4 @@
-# My Flash Game
+# Flash Ball Game
 
 This is a flash ball game. Purpose of created this game proejct is to study ActionScript 3.0 coding.  
 
